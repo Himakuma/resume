@@ -251,7 +251,7 @@
 * フレームワーク：FuelPHP、.Net Framework
 * その他：IIS、Apache、Slony-I、pgpool
 
-**［メンバー構成／役割］**Window
+**［メンバー構成／役割］**
 4人／サブリーダー
 
 
