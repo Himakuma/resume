@@ -110,7 +110,6 @@
 |[blender-vrc-tools](https://github.com/Himakuma/blender-vrc-tools)|VRChat向けのBlenderアドオン<br/>・ボーン名称の正規表現よる一括名称置き換え<br/>・シェイプキーの一括変換、順序入れ替え<br/>・Mayaからのモデル読み込み時のアーマチェア改装の補正|
 |[DynamicBoneCopy](https://github.com/Himakuma/DynamicBoneCopy)|DynamicBoneの設定値の共有を目的としたUnity拡張エディタ<br/>・設定内容のコピー、ペースト<br/>・エクスポート機能（インポートは出力ファイルを所定の場所に配置）|
 |[VRChat_LipSyncSelect](https://github.com/Himakuma/VRChat_LipSyncSelect)|VRChat向けのリップシンク一括設定のUnity拡張エディタ|
-|[QRCodeWebLoader](https://github.com/Himakuma/QRCodeWebLoader)|QRコードを読み取り、Webブラウザを起動ツール<br/>（フォルダに画像が配置されるのをトリガーとしている）|
 
 ## 職務経歴
 ### ・2008/10 - 2018/11（退職済み）: 株式会社 フィズー
