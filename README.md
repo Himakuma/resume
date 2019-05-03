@@ -11,7 +11,7 @@
 |Twitter|[@himakuma_1009](https://twitter.com/himakuma_1009)|
 
 
-## 希望業務
+## 希望業務（転職先）　※現在フリーランス
 
 - xRコンテンツの開発
 
